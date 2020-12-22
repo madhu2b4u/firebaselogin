@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2F23AAC2-1200-4869-8BE1-7D5E81CA0132"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D523BD93-6DDC-479D-9A12-EADD4EC15699"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "firebaselogin/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "209"
+            endingLineNumber = "209"
+            landmarkName = "color"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D523BD93-6DDC-479D-9A12-EADD4EC15699 - c7ca58c9c2331233"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaselogin.Signup.init() -&gt; firebaselogin.Signup"
+                  moduleName = "firebaselogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/Documents/IOS/firebaselogin/firebaselogin/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "213">
+               </Location>
+               <Location
+                  uuid = "D523BD93-6DDC-479D-9A12-EADD4EC15699 - be74a3810782a421"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of firebaselogin.Signup.email : Swift.String"
+                  moduleName = "firebaselogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/Documents/IOS/firebaselogin/firebaselogin/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "D523BD93-6DDC-479D-9A12-EADD4EC15699 - fb5078672dd0e377"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaselogin.Signup.email.getter : Swift.String"
+                  moduleName = "firebaselogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/Documents/IOS/firebaselogin/firebaselogin/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "198">
+               </Location>
+               <Location
+                  uuid = "D523BD93-6DDC-479D-9A12-EADD4EC15699 - 59f9c4659adbf36b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaselogin.Signup.email.setter : Swift.String"
+                  moduleName = "firebaselogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/Documents/IOS/firebaselogin/firebaselogin/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "207">
+               </Location>
+               <Location
+                  uuid = "D523BD93-6DDC-479D-9A12-EADD4EC15699 - 323940657fc2e8da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaselogin.Signup.email.modify : Swift.String"
+                  moduleName = "firebaselogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/Documents/IOS/firebaselogin/firebaselogin/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  uuid = "D523BD93-6DDC-479D-9A12-EADD4EC15699 - b6b8a32b0307576b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaselogin.Signup.email.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "firebaselogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/Documents/IOS/firebaselogin/firebaselogin/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D523BD93-6DDC-479D-9A12-EADD4EC15699 - 690a2c888a2233ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "firebaselogin.Signup.$email.getter : SwiftUI.Binding&lt;Swift.String&gt;"
+                  moduleName = "firebaselogin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mak/Documents/IOS/firebaselogin/firebaselogin/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "158"
+                  endingLineNumber = "158"
+                  offsetFromSymbolStart = "229">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
